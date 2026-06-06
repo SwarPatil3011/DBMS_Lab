@@ -1,0 +1,6 @@
+CREATE TABLE student (
+    PRN INT PRIMARY KEY,
+    NAME VARCHAR(50),
+    Address VARCHAR(100),
+    UID INT
+);

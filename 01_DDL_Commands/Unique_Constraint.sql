@@ -1,0 +1,4 @@
+CREATE TABLE Example (
+    ID INT,
+    Email VARCHAR(100) UNIQUE
+);
